@@ -1,0 +1,172 @@
+frontend/src/App.vue
+  s_2c4f2d1b99aae0::t_463baf129fb104 1-16
+backend/app/api/schemas.py
+  s_2c4f2d1b99aae0::t_a92ef7de2e1859 1-71
+backend/app/services/workspace.py
+  s_2c4f2d1b99aae0::t_c169240d11f005 1-51
+frontend/src/services/importWorkspace.js
+  s_2c4f2d1b99aae0::t_96d0b5cb47a910 1-72
+server.py
+  s_2c4f2d1b99aae0::t_1c8fde0f5e0ede 4-6,10-11,13-21
+README.md
+  h_c7ec48b347e6fc 1,3,5,7-18,21,24,26-30,32,34,36,38,40-43,46,48,50-55,57,60-62,65-77,80-81,84-90,92,94,96
+backend/app/core/runtime.py
+  s_2c4f2d1b99aae0::t_a82b9dfbdabaf9 1-20
+backend/app/main.py
+  s_2c4f2d1b99aae0::t_f23aa422f72c05 1-131
+backend/app/providers/quotes.py
+  s_2c4f2d1b99aae0::t_b67672057c6123 1-166
+deploy/gupiao.env.example
+  s_2c4f2d1b99aae0::t_d930e1a61bc299 1-14
+oldIndex.html
+  h_c7ec48b347e6fc 1-1194
+docs/deployment.md
+  s_2c4f2d1b99aae0::t_911c8b22598065 1-108
+frontend/index.html
+  s_2c4f2d1b99aae0::t_ff50d6d7c2a717 1-12
+frontend/src/components/WatchlistTable.vue
+  s_2c4f2d1b99aae0::t_cf1c8c72cb0d34 1-18
+frontend/src/components/WatchlistFilters.vue
+  s_2c4f2d1b99aae0::t_1e133a81b577a9 1-35
+frontend/src/stores/workspace.js
+  s_2c4f2d1b99aae0::t_f0e73332e938be 1-49
+frontend/vite.config.js
+  s_2c4f2d1b99aae0::t_702b416c0d6da7 1-13
+frontend/package-lock.json
+  s_2c4f2d1b99aae0::t_b007e259312c0d 1-1552
+backend/app/db/session.py
+  s_2c4f2d1b99aae0::t_ea726bbb4ca712 1-34
+backend/app/core/security.py
+  s_2c4f2d1b99aae0::t_c9a8a944235310 1-71
+frontend/src/stores/auth.js
+  s_2c4f2d1b99aae0::t_8d9e3172aaa28c 1-65
+backend/migrations/versions/0001_workspace.py
+  s_2c4f2d1b99aae0::t_72e7ee5ff772a0 1-52
+backend/app/services/billboard.py
+  s_2c4f2d1b99aae0::t_b14d62f8761ca3 1-135
+frontend/package.json
+  s_2c4f2d1b99aae0::t_ace42cca9c6ca8 1-22
+frontend/src/services/api.js
+  s_2c4f2d1b99aae0::t_483996ba6c3b6c 1-50
+start-local.ps1
+  h_c7ec48b347e6fc 1-48
+frontend/src/components/IconLibrary.vue
+  s_2c4f2d1b99aae0::t_a752a3dc0d18a0 1-18
+oldserver.py
+  h_c7ec48b347e6fc 1-1041
+docs/legacy-data-notes.md
+  s_2c4f2d1b99aae0::t_3500fa50b003a7 1-199
+backend/app/api/dependencies.py
+  s_2c4f2d1b99aae0::t_3a43594171ebe1 1-25
+backend/app/providers/eastmoney.py
+  s_2c4f2d1b99aae0::t_908f83e15d7b66 1-10
+deploy/mysql-backup.cnf.example
+  s_2c4f2d1b99aae0::t_2c8ae19bf48c4e 1-5
+backend/app/core/cache.py
+  s_2c4f2d1b99aae0::t_d0158cb0f460a4 1-19
+frontend/src/components/StockCard.vue
+  s_2c4f2d1b99aae0::t_ebadb9c013fc2c 1-42
+frontend/src/views/LoginView.vue
+  s_2c4f2d1b99aae0::t_e33dc82467e4e6 1-14
+frontend/src/services/localWorkspace.js
+  h_c7ec48b347e6fc 1-52
+backend/app/core/config.py
+  s_2c4f2d1b99aae0::t_1838dbdb7f0ddd 1-58
+frontend/src/views/DashboardView.vue
+  s_2c4f2d1b99aae0::t_157e5520de053a 1-156
+frontend/src/renderers/funds.js
+  s_2c4f2d1b99aae0::t_b216358bacdaba 1-77
+backend/app/api/market.py
+  s_2c4f2d1b99aae0::t_f1511bf28a488e 1-70
+backend/app/cli.py
+  s_2c4f2d1b99aae0::t_bb27ff7c36258a 1-59
+backend/app/providers/http.py
+  s_2c4f2d1b99aae0::t_de9707b548af0a 1-60
+frontend/src/components/CapitalAnalysis.vue
+  s_2c4f2d1b99aae0::t_ddedd85a864204 1-13
+frontend/.npmrc
+  s_2c4f2d1b99aae0::t_abf9d6ed51c5d0 1
+frontend/src/composables/useMarketData.js
+  s_2c4f2d1b99aae0::t_4a0eefb3938b17 1-654
+backend/app/api/auth.py
+  s_2c4f2d1b99aae0::t_2410644c21b03d 1-48
+frontend/src/main.js
+  s_2c4f2d1b99aae0::t_9ca22289d50611 1-11
+frontend/src/styles/workspace.css
+  s_2c4f2d1b99aae0::t_a1c46cac6ff158 1-359
+backend/app/db/models.py
+  s_2c4f2d1b99aae0::t_92691bfa73e15c 1-61
+backend/app/core/numbers.py
+  s_2c4f2d1b99aae0::t_b0dbf6f36ff9fd 1-31
+frontend/src/components/ImportWorkspaceDialog.vue
+  s_2c4f2d1b99aae0::t_3f50656a2aae2b 1-49
+frontend/src/composables/useWatchlistFilters.js
+  s_2c4f2d1b99aae0::t_1c5f2d587cb2f1 1-49
+deploy/gupiao.service
+  s_2c4f2d1b99aae0::t_c4d28cbb76492e 1-29
+frontend/src/components/StockDialog.vue
+  s_2c4f2d1b99aae0::t_5095b4858a5acc 1-80
+backend/requirements.txt
+  s_2c4f2d1b99aae0::t_b56391d9cb880c 1-6
+deploy/nginx.conf.example
+  s_2c4f2d1b99aae0::t_f4c55fef01cdce 1-49
+backend/app/providers/trends.py
+  s_2c4f2d1b99aae0::t_9e94d41679d3ef 1-106
+backend/migrations/script.py.mako
+  s_2c4f2d1b99aae0::t_75c2496a3b0078 1-15
+frontend/src/utils/format.js
+  s_2c4f2d1b99aae0::t_c6ab2b17033bc4 1-17
+.gitignore
+  s_2c4f2d1b99aae0::t_bb87b27d13adb9 1-13
+frontend/.nvmrc
+  s_2c4f2d1b99aae0::t_72930bd5c8ce16 1
+backend/migrations/env.py
+  s_2c4f2d1b99aae0::t_cfbd415b4a6905 1-17
+backend/app/services/funds.py
+  s_2c4f2d1b99aae0::t_ba34ec92cea04d 1-140
+frontend/src/styles/theme.css
+  s_2c4f2d1b99aae0::t_a816406a20656d 1-76
+frontend/src/components/SectorBoard.vue
+  s_2c4f2d1b99aae0::t_e7a5127ad9f1cc 1-11
+frontend/src/renderers/quotes.js
+  s_2c4f2d1b99aae0::t_9576ab1b85bcce 1-264
+backend/alembic.ini
+  s_2c4f2d1b99aae0::t_5326a0e2cee5da 1-3
+backend/app/providers/darkflow.py
+  s_2c4f2d1b99aae0::t_c44b399d83aa7c 1-200
+deploy/backup.sh
+  s_2c4f2d1b99aae0::t_18087ef377da99 1-18
+backend/app/providers/sectors.py
+  s_2c4f2d1b99aae0::t_63a7011062bec8 1-119
+frontend/src/services/runtime.js
+  h_c7ec48b347e6fc 1-3
+backend/requirements.lock.txt
+  s_2c4f2d1b99aae0::t_017fd3d0954dac 1-22
+frontend/src/components/GroupManager.vue
+  s_2c4f2d1b99aae0::t_fa44a6c538e64f 1-36
+.env.example
+  s_2c4f2d1b99aae0::t_c6d43f37474e64 1-15
+backend/app/api/workspace.py
+  s_2c4f2d1b99aae0::t_147978a4126358 1-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "7b4f50782878d2287beaa173b1ee592cdd254bcd",
+  "prompts": {},
+  "humans": {
+    "h_c7ec48b347e6fc": {
+      "author": "caifakun <caifakun@helipay.com>"
+    }
+  },
+  "sessions": {
+    "s_2c4f2d1b99aae0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1aae1-dc05-7ba2-a203-94e54d2c29ed",
+        "model": "unknown"
+      },
+      "human_author": "caifakun <caifakun@helipay.com>"
+    }
+  }
+}
