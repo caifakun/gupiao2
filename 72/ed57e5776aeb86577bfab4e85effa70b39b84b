@@ -1,0 +1,26 @@
+README.md
+  h_c7ec48b347e6fc 1-195
+auction-probe-data/2026-11-06/135921-d0ebe065dfe149179511327eaeabebd6.jsonl
+  h_c7ec48b347e6fc 1-3
+auction_probe.py
+  h_c7ec48b347e6fc 1-180
+index.html
+  h_c7ec48b347e6fc 1-1194
+market-data.js
+  h_c7ec48b347e6fc 1-998
+seat-labels.json
+  h_c7ec48b347e6fc 1-3
+server.py
+  h_c7ec48b347e6fc 1-1041
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "72ed57e5776aeb86577bfab4e85effa70b39b84b",
+  "prompts": {},
+  "humans": {
+    "h_c7ec48b347e6fc": {
+      "author": "caifakun <caifakun@helipay.com>"
+    }
+  }
+}
