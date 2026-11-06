@@ -1,0 +1,11 @@
+<script setup>
+defineEmits(["kind", "step"]);
+</script>
+<template>
+<section id="sector-page" aria-label="市场板块看板">
+        <div id="sector-kind-controls" class="sector-controls"><div class="groups" role="group" aria-label="A股板块分类"><button class="group-button" type="button" data-sector-kind="industry" @click="$emit('kind', 'industry')" aria-pressed="true">行业板块</button><button class="group-button" type="button" data-sector-kind="concept" @click="$emit('kind', 'concept')" aria-pressed="false">概念板块</button></div></div>
+        <div class="sector-summary"><div class="summary-card"><span id="sector-up-label">本页上涨板块</span><strong id="sector-up-count">—</strong><small>以本页有效样本计算</small></div><div class="summary-card"><span id="sector-down-label">本页下跌板块</span><strong id="sector-down-count">—</strong><small>以本页有效样本计算</small></div><div class="summary-card"><span>行情源时间</span><strong id="sector-source-time">—</strong><small id="sector-time-note">不以采集时间冒充源时间</small></div></div>
+        <div class="sector-panel"><header class="sector-panel-header"><h2 id="sector-title">行业板块排行</h2><span id="sector-state" class="state-badge">等待加载</span></header><table class="sector-table"><caption id="sector-caption" class="field-help" style="padding: 12px 20px; text-align: left">等待真实数据，统计口径随数据源标注</caption><thead id="sector-table-head"><tr><th scope="col">板块名称</th><th scope="col">涨跌幅</th><th scope="col">成交额（元）</th><th scope="col">领涨股</th></tr></thead><tbody id="sector-table-body"><tr><td colspan="4"><div class="sector-empty"><h3>等待连接行情后端</h3><p>连接真实行情后端，不使用模拟数据填充。</p></div></td></tr></tbody></table></div>
+        <footer class="sector-footer"><span id="sector-data-meta">尚未取得板块数据</span><div id="sector-pagination" class="pagination"><button id="sector-previous-page" @click="$emit('step', -1)" class="icon-button" type="button" aria-label="板块上一页" disabled><svg class="icon" aria-hidden="true"><use href="#icon-left"/></svg></button><span id="sector-page-number">1 / 1</span><button id="sector-next-page" @click="$emit('step', 1)" class="icon-button" type="button" aria-label="板块下一页" disabled><svg class="icon" aria-hidden="true"><use href="#icon-right"/></svg></button></div></footer>
+      </section>
+</template>

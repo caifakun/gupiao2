@@ -1,0 +1,5 @@
+[client]
+host=127.0.0.1
+port=3306
+user=gupiao_backup
+password=REPLACE_ON_SERVER
